@@ -1,0 +1,17 @@
+0. HTML fájlban létrehozol egy elemsablont
+Az osztályban:
+1) Jellemzően a konstruktor megfogja kapni az adatokat és az aktuális elemet
+	2) - Beállítunk ehhez az elem minden egyes részéhez egy adattagot (mutatót),
+	 hogy könyebben tudjunk rá hivatkozni 
+	adatok saját adattagként kezelése (this.adat=adat)
+	- további szükséges adattagok pl állapot stb
+3) Első pontban meghatárorozott DOM elemekhez hozzáadjuk a konkrét értékeket
+
+4) Hozzárakjuk az eseménykezelőket a HTML DOM-ban
+5) Saját eseménykezelő-> saját állapotárol tud így üzeneteket küldeni, kommunikálni
+
+
+Lámpa osztály
+
+1) index.html-> egy div létrehozása class lampa+ css
+2)
